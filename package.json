@@ -1,0 +1,36 @@
+{
+  "name": "asciinema_concat",
+  "version": "1.0.0",
+  "description": "Concatenate locally saved asciinema ascicasts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i4h/asciinema_concat.git"
+  },
+  "keywords": [
+    "asciinema",
+    "concat",
+    "concatenate",
+    "join",
+    "combine"
+  ],
+  "author": "Ingmar Vierhaus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i4h/asciinema_concat/issues"
+  },
+  "homepage": "https://github.com/i4h/asciinema_concat#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "commander": "^2.9.0",
+    "debug": "^2.6.0",
+    "fs": "0.0.1-security"
+  },
+   "bin": {
+        "asciinema_concat": "index.js"
+   }
+
+}
