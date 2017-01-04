@@ -32,5 +32,5 @@ Run `asciinema_concat --help` to see this message:
 If you exit your casts using `Ctrl-D`, this should work well with
 the default options. Check out this asciicast for a demo:
 
-[![asciicast](https://asciinema.org/a/cotdw3zjo4rs69uqf8p6ercg6.png)](https://asciinema.org/a/cotdw3zjo4rs69uqf8p6ercg6)
+[![asciicast](https://asciinema.org/a/bb8zgacmxjua5vwd1noon0bwa.png)](https://asciinema.org/a/bb8zgacmxjua5vwd1noon0bwa)
 
